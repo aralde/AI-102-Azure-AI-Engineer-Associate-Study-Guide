@@ -54,7 +54,6 @@ AI-102-Exam-Notes/
 │   └── 11-azure-ai-foundry.md         # Azure AI Foundry & OpenAI
 ├── cheatsheets/
 │   └── master-cheatsheet.md           # All-in-one quick reference
-└── source_material_RAW/               # Original study materials
 ```
 
 ## 🚀 Quick Start
