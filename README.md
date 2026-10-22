@@ -85,7 +85,7 @@ Feel free to submit PRs with corrections, additional tips, or improved examples!
 
 ## 📄 License
 
-MIT License - Use freely for your exam preparation!
+Apache License 2.0. Use freely for your exam preparation; if you share or adapt it, keep the [LICENSE](LICENSE) and [NOTICE](NOTICE) files.
 
 ---
 
